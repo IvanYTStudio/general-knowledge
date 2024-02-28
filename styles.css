@@ -90,6 +90,10 @@ a {
 	display: none;
 }
 
+a:hover {
+	opacity:0;
+}
+
 svg[xmlns="http://www.w3.org/2000/svg"] {
     display: none;
     pointer-events: none;
