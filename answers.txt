@@ -411,7 +411,7 @@ Michael Howard
 Gerald Ford
 Pierre Trudeau
 Robertson Davies
-“…To forgive divine”
+"…To forgive divine"
 A lie (pork pie)
 Hic iacet sepultus (Here lies buried)
 Homesick
@@ -1228,7 +1228,7 @@ Fish
 Costa del Sol
 Julius Caesar
 Fidel Castro
-“…a dangerous thing”
+"…a dangerous thing"
 Puissance
 Alan Rickman
 Scott Joplin
@@ -2050,8 +2050,8 @@ Red
 Italy
 November
 At the bottom of the sea
-“Is worth two in the bush”
-“Great oaks”
+"Is worth two in the bush"
+"Great oaks"
 Friend (China plate = mate)
 Playing cards
 Candles
@@ -2700,7 +2700,7 @@ Rodent
 Pein
 Nixon and Ford
 Every 76 years
-“How can they tell?”
+"How can they tell?"
 Four
 Frans Hals
 Colon
