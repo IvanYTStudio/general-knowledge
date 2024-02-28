@@ -91,7 +91,7 @@ a {
 }
 
 a:hover {
-	opacity:0;
+	opacity:0 !important;
 }
 
 svg[xmlns="http://www.w3.org/2000/svg"] {
