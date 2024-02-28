@@ -9,6 +9,10 @@
     height: 0px;
 }
 
+header[data-testid="stHeader"] {
+	background : rgba(255, 255, 255, 0);
+}
+
 .stApp  {
     background-image: url("https://i.ibb.co/z2nyHnt/Untitled-design-1.png");
     background-size: cover;
@@ -79,4 +83,13 @@ p {
     padding-top: 0;
     font-family: 'Courier New', Courier, monospace;
     font-size: 2vh;
+}
+
+a {
+    pointer-events: none;
+}
+
+svg[xmlns="http://www.w3.org/2000/svg"] {
+    display: none;
+    pointer-events: none;
 }
