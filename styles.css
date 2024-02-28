@@ -87,6 +87,7 @@ p {
 
 a {
     pointer-events: none;
+	display: none;
 }
 
 svg[xmlns="http://www.w3.org/2000/svg"] {
