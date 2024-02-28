@@ -142,7 +142,7 @@ Hilaire Belloc
 The Pilgrim Fathers
 Red and blue
 A type of shawl
-Asses’ milk
+Asses' milk
 Patsy Cline
 A bird
 Tutankhamen
@@ -179,7 +179,7 @@ Harrisburg
 Ice hockey
 Ducks and drakes
 Hermes
-Fools’ gold
+Fools' gold
 Permafrost
 Jakarta
 Richard Strauss
@@ -295,7 +295,7 @@ Paciifc
 Spanish
 1985
 Mark Darcy
-Lil’ Mo
+Lil' Mo
 Loire
 Keenen Ivory Wayans
 Paris
@@ -603,7 +603,7 @@ Pablo Neruda
 A type of fabric
 Chemistry
 James Wolfe
-Reader’s Digest
+Reader's Digest
 Juvenal
 Douglas MacArthur
 Robin Hood
@@ -694,10 +694,10 @@ The peach
 The ozone layer
 USA
 Cheese
-Eat it, it’s a smoked sausage
+Eat it, it's a smoked sausage
 A sheep
 Reef
-A policeman’s badge
+A policeman's badge
 Bathsheba
 Yellow
 Portsmouth
@@ -781,7 +781,7 @@ Catherine Howard
 Michelle Pfeiffer
 Dustin Hoffman
 Westlife
-St Swithin’s Day
+St Swithin's Day
 Frogman
 Skiing
 South Africa
@@ -921,7 +921,7 @@ Greenpeace
 Frostbite
 All the Pretty Horses
 Sir Francis Chichester
-Grimm’s Fairy Tales
+Grimm's Fairy Tales
 1953
 Mount McKinley
 New Wave
@@ -959,7 +959,7 @@ Mediterranean Sea
 Couscous
 Squid
 Darjeeling
-The French Lieutenant’s Woman
+The French Lieutenant's Woman
 Dr Christiaan Barnard
 Retinol
 Paris
@@ -1063,7 +1063,7 @@ Beryl Reid
 Extra cover
 The English Patient
 A horse
-Eat it: it’s a dessert
+Eat it: it's a dessert
 Switzerland
 Eric Clapton
 As above
@@ -1158,10 +1158,10 @@ Asterix
 Wilson
 Andie MacDowell
 Lex Luthor
-Breakfast at Tiffany’s
+Breakfast at Tiffany's
 Rod Stewart
 O J Simpson
-Cleopatra’s Needle
+Cleopatra's Needle
 Luciano Pavarotti
 Invertebrate
 Ginger
@@ -1214,7 +1214,7 @@ Shamrock
 The Silk Road
 Banshee
 Photography
-Andy Warhol’s
+Andy Warhol's
 Sisyphus
 Bantu
 Silicon
@@ -1347,7 +1347,7 @@ Copper and zinc
 Czech Republic
 High-speed train
 Hydrogen sulphide
-Harrod’s
+Harrod's
 Asteroids
 Kelvin
 46
@@ -1402,7 +1402,7 @@ His squint
 Roald Dahl
 Duets
 Aristotle Onassis
-The Admiral’s Cup
+The Admiral's Cup
 Buddhism
 Ares
 Mongols
@@ -1500,7 +1500,7 @@ Optical Character Recognition
 Xerox
 Australian
 Norwegian
-Parkinson’s Disease
+Parkinson's Disease
 Black Widow
 Wading bird
 Watt
@@ -1564,7 +1564,7 @@ John Steinbeck
 Hypertension
 Artie Shaw
 Iris
-A Midsummer Night’s Dream
+A Midsummer Night's Dream
 Dianthus
 T E Lawrence
 Frank Lloyd Wright
@@ -1666,7 +1666,7 @@ Blue
 1988
 1945
 Minorca
-St Alban’s
+St Alban's
 Texas
 Gerald Ford
 Rhine
@@ -1683,7 +1683,7 @@ Saving All My Love for You
 Chim Chim Cher-ee
 Jimmy Carter
 Leslie Charteris
-Destiny’s Child
+Destiny's Child
 An edible mushroom
 Norway
 Nicci French
@@ -1720,7 +1720,7 @@ East Germany
 Dallas
 Poland
 Anna Karenina
-The Moon’s a Balloon
+The Moon's a Balloon
 Richard Hannay
 Morse
 Sweet and Lowdown
@@ -1792,7 +1792,7 @@ Celine Dion
 Aberdeen
 Diameter
 Angola
-Citizens’ Band
+Citizens' Band
 The heart
 Elbe
 John the Baptist
@@ -1971,7 +1971,7 @@ Ellen Barkin
 Serbia
 16
 12
-Roy Emerson’s
+Roy Emerson's
 2007
 Rhode Island
 Colonel Steve Zodiac
@@ -2097,7 +2097,7 @@ Muttley
 The drums
 Diseases of the ear, nose and throat
 Nice
-It’s a strait with strong currents
+It's a strait with strong currents
 1990
 Winnie the Pooh
 Echo
@@ -2132,7 +2132,7 @@ DeLorean
 John Goodman
 Jonathan and Jennifer
 Tenor saxophone
-Ch’i
+Ch'i
 The Brontës
 Acker Bilk
 Orbit City
@@ -2199,13 +2199,13 @@ Scorpio
 Mecca
 Lederhosen
 Tupelo
-‘Colonel’ Tom Parker
+'Colonel' Tom Parker
 Tom and Jerry
 Kon-Tiki
 1951
 Tirpitz
 Italian
-Hudson’s Bay Company
+Hudson's Bay Company
 Banjul
 Australia
 Guess Who
@@ -2224,7 +2224,7 @@ Circle Line
 As Far As I Know
 If Allah Wills It
 The Moon
-Marlon Brando’s
+Marlon Brando's
 Dakar
 Transcendental meditation
 Clarinet
@@ -2347,7 +2347,7 @@ Daphne Du Maurier
 Fish
 Plague
 El Salvador
-W B Yeats’s
+W B Yeats's
 Errol Flynn
 Arcturus
 Boris Godunov
@@ -2407,7 +2407,7 @@ Jeeves
 Ariel
 Jihad
 Lucille Ball
-Giant’s Causeway
+Giant's Causeway
 Shere Khan
 Achmed Sukarno
 Adolf Hitler
@@ -2455,7 +2455,7 @@ A pig
 Lake Como
 Cancer
 Cullinan
-Parkinson’s Law
+Parkinson's Law
 Short Take Off and Landing
 Nehru
 H Rider Haggard
@@ -2552,7 +2552,7 @@ Enola Gay
 Leukaemia
 Vladivostok
 Rhode Island
-Hadrian’s Wall
+Hadrian's Wall
 Czechoslovakia
 Cygnus
 Austrian
@@ -2651,7 +2651,7 @@ Cousin
 Jelly Roll Morton
 Cyrillic
 Jake and Elwood
-National Lampoon’s Vacation
+National Lampoon's Vacation
 Graham Chapman
 Harold Pinter
 Regulus
@@ -2854,7 +2854,7 @@ Swan
 Large Indian antelope
 Sicily
 A type of wallpaper
-Wear it: it’s a garment
+Wear it: it's a garment
 Bob Hope
 Chicago
 Ugandan
@@ -2949,7 +2949,7 @@ Pasadena
 Beatrix
 Bergen, Norway
 Steppes
-Fingal’s Cave
+Fingal's Cave
 Alistair MacLean
 Steve McQueen
 Upwards
@@ -2996,7 +2996,7 @@ Soil
 Coconut
 Blushing
 Darkness
-Gulliver’s Travels
+Gulliver's Travels
 Cyanide
 Ben Hur
 Ross
@@ -3011,7 +3011,7 @@ Sievert
 12
 Samuel de Champlain
 Latvia
-Tatum O’Neal
+Tatum O'Neal
 The 6th Day
 Italy
 Birmingham
@@ -3120,7 +3120,7 @@ Volleyball
 Elisa
 1940s
 1836
-‘U’ shaped
+'U' shaped
 Scotland and Northern Ireland
 Remembering
 Beelzebub
@@ -3232,8 +3232,8 @@ Bob Dylan
 Westerns
 Basketball
 Dr Seuss
-Love’s Labours Lost
-Boys’ Town
+Love's Labours Lost
+Boys' Town
 Jack London
 David
 The White Tower
@@ -3511,7 +3511,7 @@ John Wyndham
 Hinduism
 Tower Bridge
 Central Intelligence Agency
-Young Men’s Christian Association
+Young Men's Christian Association
 Lionel Ritchie
 Aintree
 Uruguay
@@ -3534,9 +3534,9 @@ Robert Mitchum
 Jamaica
 Diana Krall
 Apollo 12
-St Valentine’s Day
+St Valentine's Day
 Bazaar
-Halley’s
+Halley's
 Sextet
 Pablo Picasso
 Eddie Murphy
@@ -3589,7 +3589,7 @@ Kindergarten
 XIX
 Snakes
 St Matthew
-On Her Majesty’s Secret Service
+On Her Majesty's Secret Service
 Puccini
 Turin
 Jim Carrey
@@ -3634,8 +3634,8 @@ Flying Doctor Service
 The Sun
 The Flying Dutchman
 Cecil Rhodes
-St Andrew’s
-St Elmo’s Fire
+St Andrew's
+St Elmo's Fire
 Newfoundland
 Oesophagus
 Antoine de Saint-Exupéry
@@ -3683,7 +3683,7 @@ Mikhail Gorbachev
 O J Simpson
 Tesserae
 Italy
-Athlete’s foot
+Athlete's foot
 Farthing
 100 metres sprint
 2002
@@ -3692,7 +3692,7 @@ Augustus John
 Londinium
 The Holly and the Ivy
 Tito
-Devil’s Island
+Devil's Island
 Beetle
 Iodine
 Star Wars
@@ -4194,7 +4194,7 @@ Parliament
 Cher
 Athena
 Tasmania
-Schindler’s List
+Schindler's List
 Charles Dickens
 Denmark
 Celtic

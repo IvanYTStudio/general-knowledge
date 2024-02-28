@@ -2,7 +2,7 @@ import streamlit as st
 import random
 
 with open('questions.txt') as questions_txt:
-    questions = [questions.replace('\n', '') for questions in questions_txt.readlines()]
+    questions = [question.replace('\n', '') for question in questions_txt.readlines()]
 
 with open('answers.txt') as answers_txt:
     answers = [answer.replace('\n','') for answer in answers_txt.readlines()]
