@@ -9,6 +9,10 @@
     height: 0px;
 }
 
+#question, #answer, #tribute, #help {
+    pointer-events: none;
+}
+
 header[data-testid="stHeader"] {
 	background : rgba(255, 255, 255, 0);
 }
