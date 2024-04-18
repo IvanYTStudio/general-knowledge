@@ -411,7 +411,7 @@ Michael Howard
 Gerald Ford
 Pierre Trudeau
 Robertson Davies
-â€¦To forgive divine
+…To forgive divine
 A lie (pork pie)
 Hic iacet sepultus (Here lies buried)
 Homesick
@@ -455,14 +455,14 @@ Salt Lake City
 1994
 Quebec City
 Mary Pickford
-Saudi Arabia
-Israel and Egypt
+Saudi Arabia, Israel and Egypt
 Al Pacino
 W
 The ear
 Jupiter
 Ottawa
 Albert Einstein
+Geneva
 Central African Republic
 15
 Ikebana
@@ -479,7 +479,7 @@ Swimming
 Ice hockey
 Charlotte
 Vivienne Westwood
-BjÃ¶rk
+Björk
 36
 Martin Riggs
 Hungarian
@@ -537,7 +537,7 @@ Conrad Black
 220
 Lewis Carroll
 Canada
-El NiÃ±o
+El Niño
 Roald Dahl
 Finland
 1981
@@ -742,7 +742,7 @@ Peter Pears
 Male
 Woodhouse
 Vincent van Gogh
-BjÃ¶rk
+Björk
 Microsoft Disk Operating System
 Uranus
 Proactinium
@@ -903,7 +903,7 @@ Hungary
 Ring of Bright Water
 Guano
 Glaucoma
-Fashion CafÃ©
+Fashion Café
 Tintagel
 Michael Flatley
 Valois
@@ -942,7 +942,7 @@ Denmark
 Wordsworth
 Partridge
 Bile
-MoliÃ¨re
+Molière
 Islam
 Great Mosque at Mecca
 Aida
@@ -1228,7 +1228,7 @@ Fish
 Costa del Sol
 Julius Caesar
 Fidel Castro
-â€¦a dangerous thing
+…a dangerous thing
 Puissance
 Alan Rickman
 Scott Joplin
@@ -1239,7 +1239,7 @@ China
 Bob Dylan
 St John
 Leonid Brezhnev
-Anne BrontÃ«
+Anne Brontë
 Elizabeth Barrett Browning
 Taurus
 Assassin
@@ -1319,7 +1319,7 @@ Alba Longa
 Spica
 Seoul
 Gran Chaco
-TouchÃ©
+Touché
 Clint Eastwod
 New Mexico and Utah
 Nebraska
@@ -1678,7 +1678,7 @@ Lake Garda
 The krona
 Ajax
 The Piano
-Stefan Edberg and Anders JÃ¤rryd
+Stefan Edberg and Anders Järryd
 Saving All My Love for You
 Chim Chim Cher-ee
 Jimmy Carter
@@ -1873,7 +1873,7 @@ Scotland
 Norway
 Mexico
 1959
-Heinrich BrÃ¼ning
+Heinrich Brüning
 1962
 Iceland
 June
@@ -2133,7 +2133,7 @@ John Goodman
 Jonathan and Jennifer
 Tenor saxophone
 Ch'i
-The BrontÃ«s
+The Brontës
 Acker Bilk
 Orbit City
 Theseus
@@ -2171,7 +2171,7 @@ Italy
 Roger Bannister
 La Marseillaise
 Virginia
-Ã…land Islands
+Åland Islands
 BBMak
 Dusty Springifeld
 Marco Polo
@@ -2266,7 +2266,7 @@ Wolves
 Spain
 Triple jump
 Romancing the Stone
-Gian Maria VolontÃ©
+Gian Maria Volonté
 Niece
 Paul Gauguin
 Morocco
@@ -2313,7 +2313,7 @@ Spaghetti Western
 Morgan Le Fay
 Thunderbird
 The Devil
-PepÃ© le Pew
+Pepé le Pew
 Corsica
 Farce
 Limp Bizkit
@@ -2337,7 +2337,7 @@ Danny DeVito
 Peri Gilpin
 Bridge
 Drew Barrymore
-BjÃ¶rk
+Björk
 Cameroon
 Spanish
 Syracuse, New York
@@ -2589,7 +2589,7 @@ One million
 Louis XIV
 Supernova
 Fencing
-Eire
+Ireland
 Macbeth
 Ankara
 Aneurism
@@ -2686,7 +2686,7 @@ Urticaria
 Matterhorn
 Bayonet
 Decathlon
-John le CarrÃ©
+John le Carré
 L Ron Hubbard
 Canada
 Michael Caine and Jack Nicholson
@@ -3098,7 +3098,7 @@ Naphtali
 Italy
 Brazil
 Jim Henson
-CuraÃ§ao
+Curaçao
 Elizabeth I
 Swedish
 Hercule Poirot
@@ -3438,7 +3438,7 @@ Nicole Kidman
 Owl
 John Keats
 C
-LumiÃ¨re
+Lumière
 Cuckoo
 San Francisco
 Saskatchewan
@@ -3638,7 +3638,7 @@ St Andrew's
 St Elmo's Fire
 Newfoundland
 Oesophagus
-Antoine de Saint-ExupÃ©ry
+Antoine de Saint-Exupéry
 Orlando
 Moscow
 19th
@@ -3784,7 +3784,7 @@ Cat Stevens
 Ludwig van Beethoven
 Curds and whey
 Jupiter
-ZÃ¼rich
+Zürich
 Insect
 Nothing
 Somalia
@@ -3807,9 +3807,9 @@ Westminster Abbey
 Buzz Aldrin
 Square
 Liverpool
-Hernan CortÃ©s
+Hernan Cortés
 Seaweed
-BeyoncÃ© and Jay-Z
+Beyoncé and Jay-Z
 Riyadh
 Ho Chi Minh City
 Julius Caesar
@@ -3993,7 +3993,7 @@ Umbrella
 Vitamin C
 Welsh Corgi
 Fortnight
-SimÃ³n BolÃ­var
+Simón Bolívar
 Tiramisu
 Long Island
 The Alps
@@ -4056,8 +4056,8 @@ Egypt
 Al Gore
 Laughing gas
 Remus
-PiÃ±a colada
-Emily BrontÃ«
+Piña colada
+Emily Brontë
 Ludwig van Beethoven
 Roland Garros
 Link
@@ -4081,7 +4081,7 @@ Random
 Rio de Janeiro
 Michael Schumacher
 Tank
-Å koda
+Škoda
 Antarctica
 Et tu, Brute?
 In a tree
@@ -4121,7 +4121,7 @@ Steven Spielberg
 South Africa
 Fish
 The Flash
-ZÃ¼rich
+Zürich
 Curriculum vitae
 Casablanca
 Pakistan
