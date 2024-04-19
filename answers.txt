@@ -455,14 +455,14 @@ Salt Lake City
 1994
 Quebec City
 Mary Pickford
-Saudi Arabia
-Israel and Egypt
+Saudi Arabia, Israel and Egypt
 Al Pacino
 W
 The ear
 Jupiter
 Ottawa
 Albert Einstein
+Geneva
 Central African Republic
 15
 Ikebana
@@ -2589,7 +2589,7 @@ One million
 Louis XIV
 Supernova
 Fencing
-Eire
+Ireland
 Macbeth
 Ankara
 Aneurism
